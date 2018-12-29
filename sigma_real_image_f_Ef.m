@@ -139,11 +139,11 @@ hold on;
 % figure();
 % mesh(Bi);
 
-for i=1:1:length(y) 
-    n00 = Br(length(x),i);
-    
-end
-
+% for i=1:1:length(y) 
+%     n00 = Br(length(x),i);
+%     
+% end
+% 
 
 % 
 % u=x;
